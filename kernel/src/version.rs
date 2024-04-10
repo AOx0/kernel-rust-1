@@ -1,1 +1,1 @@
-pub const VERSION: &str = "kernel 0.0.1 (0001bc)";
+pub const VERSION: &str = "kernel 0.0.1 (000224)";
